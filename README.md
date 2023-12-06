@@ -2,9 +2,7 @@
 ## Image Segmentation Algorithm Based on U-Net
 
 ## Members:
-Mukang Miao
-Xiaoxue Zhang
-Jueren Cao
+Mukang Miao, Jueren Cao, Xiaoxue Zhang
 
 
 ## Recommended software environment
