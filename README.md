@@ -21,4 +21,4 @@ For Third edition:
 ## Introduction
 A repository containing all the code for the first version and part of the code for the third version.
 
-The network construction and data preprocessing speed-up parts of the third edition were written by mmk. He said that because these codes were written by himself for the company where he was interning, and they were actually used by the company. Therefore, the entire code cannot be disclosed, so only the interface is retained and the implementation is hidden.
+The network construction and data preprocessing speed-up parts of the third edition were written by Mukang Miao. He said that because these codes were written by himself for the company where he was interning, and they were actually used by the company. Therefore, the entire code cannot be disclosed, so only the interface is retained and the implementation is hidden.
