@@ -38,7 +38,6 @@ if __name__ == "__main__":
         test_data = DataGenerator(TEST_SAVE_PATH, is_train=False, nums=8)
             
     elif int(sys.argv[1]) == 1:
-        # 获取所有可用GPU
         TRAIN_SAVE_PATH = r"/home/miaomukang/datasets/isic18/train"
         TEST_SAVE_PATH = r"/home/miaomukang/datasets/isic18/test"
         batch_size = 48
